@@ -33,7 +33,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mojtaba-Hassanzadeh&layout=compact&theme=dracula)](https://github.com/Mojtaba-Hassanzadeh)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mojtaba-Hassanzadeh&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mojtaba-Hassanzadeh&theme=whatsapp-dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=Mojtaba-Hassanzadeh&color=blue)
 
